@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3ed0009-3816-4813-8fd0-81b2af7e75f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/default-img.jpg" afterDir="false" />
+    <list default="true" id="b3ed0009-3816-4813-8fd0-81b2af7e75f9" name="Default Changelist" comment="default image and links added">
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +49,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nathan\Desktop\portfolioProjects\images" />
       <recent name="C:\Users\Nathan\Desktop\portfolioProjects" />
+      <recent name="C:\Users\Nathan\Desktop\portfolioProjects\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +66,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612892439989</updated>
-      <workItem from="1612892441058" duration="1144000" />
+      <workItem from="1612892441058" duration="2376000" />
+      <workItem from="1615951486997" duration="10000" />
+      <workItem from="1615951506295" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="index, 404, etc.">
       <created>1612892655368</created>
@@ -74,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612892655368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="default image and links added">
+      <created>1612893914474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612893914474</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,19 +100,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index, 404, etc." />
-    <option name="LAST_COMMIT_MESSAGE" value="index, 404, etc." />
+    <MESSAGE value="default image and links added" />
+    <option name="LAST_COMMIT_MESSAGE" value="default image and links added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612893575467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1612893575467" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612892657785">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612893916855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1612892657785" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1612893916855" />
   </component>
 </project>
